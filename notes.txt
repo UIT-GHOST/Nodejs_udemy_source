@@ -1,0 +1,22 @@
+|-------------------------------------------------------------------|
+|------------------- NodeJS is a platform --------------------------|
+|-------------------------------------------------------------------|
+|	* realtime apps													|
+|	* multiplayer realtime games									|
+|	* data streaming servers										|
+|	* api(s) for mobile apps										|
+|	* apps that require heavy I/O									|
+|	* apps that require a high degree of scalability				|
+|	* apps that require a persistent connection to the server		|
+---------------------------------------------------------------------
+
+
+|---------------------------------------------------------------------------------------------------------------|
+|---------------------------------------  NodeJS advantages   --------------------------------------------------|
+|---------------------------------------------------------------------------------------------------------------|
+|	+ provides event driven and non-blocking I/O. Perfect for apps that require heavy I/O						|
+|	+ you write your own stack from the server up. Perfect for networked and realtime apps						|
+|	+ you write your code in javascript																			|
+|	+ exponentially growing number of users																		|
+|	+ has been embraced by some of the top names in the industry such as Microsoft, Yahoo, eBay, Paypal, ...	|
+-----------------------------------------------------------------------------------------------------------------
